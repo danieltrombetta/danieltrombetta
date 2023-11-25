@@ -41,7 +41,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de dados em busca de oportu
 
 ## Idiomas
 
-- 💬 Portugues (nativo)
+- 💬 Português (nativo)
 - 💬 Italiano (intermediario/fluente)
-- 💬 ingles (basico, em breve me especializarei!)
+- 💬 inglês (basico, em breve me especializarei!)
 
