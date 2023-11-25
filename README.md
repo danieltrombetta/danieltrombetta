@@ -1,16 +1,47 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**danieltrombetta/danieltrombetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de dados em busca de oportunidades profissionais na área.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Atualmente estou procurando um emprego relacionado a dados.
+- 💖 Apaixonado pela linguagem Python.
+- 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em:
+  - Python 3.x
+  - Jupyter Notebook
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+- 😄 Pronomes: ele/dele.
+
+## Projetos e Contribuições
+
+- 📚 Confira meus projetos de análise de dados na pasta [notebooks].
+- 🤝 Estou aberto a colaborações e feedback construtivo. Sinta-se à vontade para abrir issues ou pull requests.
+
+## Contato
+
+- 📫 Você pode entrar em contato comigo pelo e-mail: daniel.trombetta@hotmail.com.
+- 👔 Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/danieltrombetta/)).
+
+## Experiência
+
+- ✨ Trabalhei anteriormente em Cabeamento de Redes.
+
+## Habilidades
+
+- 💼 Experiência em Cabeamento de Redes no Geral.
+- 🚀 Desenvolvimento contínuo em bibliotecas do python como Pandas, Numpy, Matplotlib, Seaborn.
+
+## Formação
+
+- 📚 Graduação em Gestão da Tecnologia da informação.
+- 📚 Pós-Graduação em Administração em Redes e Servidores.
+
+## Idiomas
+
+- 💬 Portugues (nativo)
+- 💬 Italiano (intermediario/fluente)
+- 💬 ingles (basico, em breve me especializarei!)
+
