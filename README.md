@@ -1,6 +1,6 @@
 # Olá 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de dados em busca de oportunidades profissionais na área.
+Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de Tecnologia em busca de oportunidades profissionais na área.
 
 ## Sobre Mim
 
