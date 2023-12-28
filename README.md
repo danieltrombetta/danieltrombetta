@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de Tecnologia em busca de o
 ## Projetos e Contribuições
 
 - 📚 Confira meus projetos de análise de dados na pasta [notebooks].
-- 🤝 Estou aberto a colaborações e feedback construtivo. Sinta-se à vontade para abrir issues ou pull requests.
+- 🤝 Estou aberto a colaborações e feedback construtivo.
 
 ## Contato
 
